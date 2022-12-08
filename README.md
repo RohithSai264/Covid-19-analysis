@@ -1,5 +1,5 @@
 
-Dashboard Link: https://public.tableau.com/views/DV_Project_Covid_RC_Final_Dataink_Max/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard Link: 
 
 
 The Dashboard contains total 11 visualizations and 3 Interactivities. The 11 Visualizations are.

@@ -1,5 +1,5 @@
 
-Dashboard Link: 
+Dashboard Link: https://public.tableau.com/app/profile/rohith.sai8859/viz/Covid-19Analysis_16705419995690/Covid-19Dashboard?publish=yes
 
 
 The Dashboard contains total 11 visualizations and 3 Interactivities. The 11 Visualizations are.
